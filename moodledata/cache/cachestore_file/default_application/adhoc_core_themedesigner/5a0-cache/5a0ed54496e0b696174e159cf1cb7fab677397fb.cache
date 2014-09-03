@@ -1,0 +1,25 @@
+a:2:{s:4:"data";s:377:"/** Path: theme  custom.' **/
+/* Custom CSS
+-------------------------*/
+a.logo {
+    background: url() no-repeat 0 0;
+    display: block;
+    float: left;
+    height: 75px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.dir-rtl a.logo {
+    background: url() no-repeat 100% 0;
+    display: block;
+    float: right;
+}
+
+/* Custom CSS Settings
+-------------------------*/
+
+
+
+";s:7:"created";i:1409743929;}
